@@ -183,5 +183,5 @@ python test_api.py
 
 ## Demonstration Video
 
-> 🎬 **[Watch the demo video here]([<your-video-link>](https://1drv.ms/v/c/e0fb5fdd43e91f48/IQC9uWD4GM3TRZucLnyJt4sRAV9uORwxMrF4S-hy-uYzOYw?e=dDhNKA))**
+> 🎬 **[Watch the demo video here](https://1drv.ms/v/c/e0fb5fdd43e91f48/IQC9uWD4GM3TRZucLnyJt4sRAV9uORwxMrF4S-hy-uYzOYw?e=dDhNKA)**
 
