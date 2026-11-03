@@ -2,8 +2,6 @@
 
 > **Computational Thinking – Practice 01: Application Programming Interface**
 
-Link video demo: [https://1drv.ms/v/c/e0fb5fdd43e91f48/IQC9uWD4GM3TRZucLnyJt4sRAV9uORwxMrF4S-hy-uYzOYw?e=dDhNKA](https://1drv.ms/v/c/e0fb5fdd43e91f48/IQC9uWD4GM3TRZucLnyJt4sRAV9uORwxMrF4S-hy-uYzOYw?e=dDhNKA)
-
 ## Student Information
 
 | Field | Detail |
@@ -185,7 +183,5 @@ python test_api.py
 
 ## Demonstration Video
 
-> 🎬 **[Watch the demo video here](<your-video-link>)**
-
-<!-- Replace the link above with your actual YouTube / Google Drive URL -->
+> 🎬 **[Watch the demo video here]([<your-video-link>](https://1drv.ms/v/c/e0fb5fdd43e91f48/IQC9uWD4GM3TRZucLnyJt4sRAV9uORwxMrF4S-hy-uYzOYw?e=dDhNKA))**
 
